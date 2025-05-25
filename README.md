@@ -99,5 +99,5 @@ Full description: [https://pristina.innovate.healthcare/challenges/](https://pri
 
 ## 🧾 Acknowledgments
 
-Built with ❤️ by **Ayusee Swain** at the **Pristina Healthcare Hackathon 2025**.  
+Built by **Ayusee Swain** at the **Pristina Healthcare Hackathon 2025**.  
 Thanks to the mentors, healthcare experts, and challenge partners from TUM for their guidance and support.
