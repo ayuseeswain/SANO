@@ -1,6 +1,6 @@
 # 🩺 Sano: Health Claim Fact-Checker
 
-A prototype built for the **Pristina Healthcare Hackathon 2025**, addressing the challenge 🎯 **“Digital Health Literacy: Empowering Smart Choices”** proposed by **Technical University of Munich** (https://www.tum.de/).  
+A prototype built for the **Pristina Healthcare Hackathon 2025**, addressing the challenge 🎯 **“Digital Health Literacy: Empowering Smart Choices”** proposed by [Technical University of Munich](https://www.tum.de/).  
 🔗 [Challenge Description](https://pristina.innovate.healthcare/challenges/)
 
 ---
