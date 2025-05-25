@@ -7,7 +7,7 @@ A prototype built for the **Pristina Healthcare Hackathon 2025**, addressing the
 
 ## 🚀 Project Overview
 
-In a world flooded with health advice online, people like Nora — a busy parent looking for help — often end up confused or misinformed. Sano NLP aims to solve this by providing a simple and explainable tool that checks whether health claims are supported by evidence-based sources like **Mayo Clinic**, **PubMed**, and **WHO**.
+In a world flooded with health advice online, people like Nora — a busy parent looking for help — often end up confused or misinformed. Sano aims to solve this by providing a simple and explainable tool that checks whether health claims are supported by evidence-based sources like **Mayo Clinic**, **PubMed**, and **WHO**.
 
 By analyzing health claims, highlighting suspicious keywords, and comparing them to a trusted corpus, Sano NLP delivers a verdict:  
 ✅ **Trusted** | ⚠ **Unclear** | ❌ **Risky** — to help users make **smart, informed decisions.**
